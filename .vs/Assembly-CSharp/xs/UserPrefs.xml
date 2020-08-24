@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D101E1FA-4B4C-0576-8425-121DAD781FB2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/QuestionMode.cs">
+    <Files>
+      <File FileName="Assets/QuestionMode.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
